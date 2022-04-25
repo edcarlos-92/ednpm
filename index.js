@@ -1,4 +1,5 @@
-module.exports = function ednpm(string) {
-  if (typeof string !== 'string') throw new TypeError('Tiny wants a string!');
+module.exports = function closeStringSpace(string) {
+  if (typeof string !== 'string')
+    throw new TypeError('closeStringSpace wants a string!');
   return string.replace(/\s/g, '');
 };
