@@ -11,7 +11,7 @@ git status -- Checks the files that are ready and gives information
 git add --all -- :!.next -- Prepares files that will be added
 git commit -m "first commit" -- Adds files to the .git folder created from git init
 git branch -M master
-git remote add origin https://github.com/edcarlos-92/dees-kreation.git
+git remote add origin https://github.com/edcarlos-92/ednpm.git
 `git remote -v`
 git push -u origin master
 `git push` -- for subsequent local commit

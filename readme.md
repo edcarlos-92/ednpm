@@ -10,7 +10,7 @@ React Private Project Library
 # @edcartech/ednpm
 
 [![npm (scoped)](https://img.shields.io/npm/v/@edcartech/ednpm.svg)](https://www.npmjs.com/package/@edcartech/ednpm)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@edcartech/ednpm.svg)](https://www.npmjs.com/package/@edcartech/ednpm)
+[![npm bundle size (minified)](https://img.shields.io/badge/minified%20version-254B-blue)](https://www.npmjs.com/package/@edcartech/ednpm)
 
 Removes all spaces from a string.
 
