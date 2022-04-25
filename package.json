@@ -1,0 +1,14 @@
+{
+    "name": "@edcartech/ednpm",
+    "version": "1.0.0",
+    "description": "Removes all spaces from a string",
+    "license": "MIT",
+    "repository": "edcartech/ednpm",
+    "main": "index.js",
+    "keywords": [
+        "ednpm",
+        "npm",
+        "package",
+        "edcartech"
+    ]
+}
